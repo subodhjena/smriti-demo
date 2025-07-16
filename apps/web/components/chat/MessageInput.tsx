@@ -69,7 +69,6 @@ export function MessageInput({
           {/* Voice Button */}
           <VoiceButton
             isActive={isVoiceActive}
-            audioLevel={audioLevel}
             disabled={disabled || isAIResponding}
             onClick={onVoiceClick}
           />
