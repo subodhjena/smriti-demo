@@ -290,7 +290,7 @@ This document outlines the step-by-step implementation plan for building the Smr
    ```
 
 4. **Run tests**: `pnpm test`
-5. **Access application**: http://localhost:4200
+5. **Access application**: <http://localhost:4200>
 
 ## 📋 Recent Technical Achievements
 

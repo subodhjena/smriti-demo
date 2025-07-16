@@ -16,7 +16,6 @@
     }
   },
   "dependencies": {
-    "pino": "^9.7.0",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
