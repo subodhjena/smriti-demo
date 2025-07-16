@@ -49,7 +49,7 @@ export const AUDIO_FORMATS = {
 
 // API Endpoints
 export const API_ENDPOINTS = {
-  WS_URL: process.env.NEXT_PUBLIC_WS_URL || 'ws://localhost:3000',
+  WS_URL: process.env.NEXT_PUBLIC_WS_URL || 'wss://smriti-demo-production.up.railway.app',
   WS_TOKEN: '/api/ws-token',
   HEALTH_CHECK: '/api/health',
 } as const;
