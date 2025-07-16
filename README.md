@@ -6,7 +6,7 @@ A demonstration of the Smriti spiritual guidance platform featuring conversation
 
 This project uses NX monorepo to manage multiple applications and shared libraries:
 
-```
+```bash
 smriti/
 ├── apps/
 │   ├── web/                    # Next.js frontend application
