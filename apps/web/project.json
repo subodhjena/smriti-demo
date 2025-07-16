@@ -1,0 +1,19 @@
+{
+  "name": "@smriti/web",
+  "targets": {
+    "dev": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "PORT=4200 next dev",
+        "cwd": "apps/web"
+      }
+    },
+    "serve": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "PORT=4200 next dev",
+        "cwd": "apps/web"
+      }
+    }
+  }
+} 
